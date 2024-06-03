@@ -15,3 +15,7 @@ virtual machine instructions.
 Thus, the code that I wrote for this can be found in TJ/ParserAndTranslator.java and 
 virtualmachine/*instr.java
 
+The following are the EBNF (Extended Backus-Naur Form) rules that were to be implemented
+in the parser:
+
+![](./ebnfrules.png)
